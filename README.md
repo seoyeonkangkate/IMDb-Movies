@@ -1,3 +1,3 @@
 # IMDB Movies Dataset
 
-An ndergraduate project completed on April 2021.
+An undergraduate project completed on April 2021.
